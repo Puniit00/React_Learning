@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "React Js",
+      "description": "Basic react js course for learning purpose"
+    },
+    {
+      "id": 2,
+      "title": "Updated course",
+      "description": "Course is updated"
+    },
+    {
+      "title": "Updating React course",
+      "description": "React course updated only for learning purpose",
+      "id": 3
+    }
+  ]
+}
